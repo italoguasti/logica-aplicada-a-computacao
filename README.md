@@ -1,6 +1,6 @@
 # Lógica Aplicada à Computação
 
-Este repositório contém os arquivos e materiais relacionados à disciplina de Lógica Aplicada à Computação da UFOP. A disciplina cobre tópicos de lógica proposicional, lógica de predicados, programação funcional, indução, predicados indutivos, tipos dependentes, metaprogramação, semântica formal e muito mais.
+Este repositório contém os arquivos e materiais relacionados à disciplina de Lógica Aplicada à Computação ministrada na Universidade Federal de Ouro Preto (UFOP). A disciplina cobre tópicos de lógica proposicional, lógica de predicados, programação funcional, indução, predicados indutivos, tipos dependentes, metaprogramação, semântica formal e muito mais.
 
 ## Estrutura dos Arquivos
 
